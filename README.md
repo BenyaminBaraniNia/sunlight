@@ -104,13 +104,11 @@ Remove usernames or personal information before sending examples.
 
 ## 📬 Contact Me
 
-```text
-Email: Benyamin.Barani.Nia@gmail.com
-Website: https://www.BenWrites.ir/
-GitHub: https://github.com/BenyaminBaraniNia
-Instagram: https://www.instagram.com/benyamin.b.n/
-Telegram Channel: https://t.me/benyaminwrites
-```
+- Email: [Benyamin.Barani.Nia@gmail.com](mailto:Benyamin.Barani.Nia@gmail.com)
+- Website: [BenWrites.ir](https://www.BenWrites.ir/)
+- GitHub: [BenyaminBaraniNia](https://github.com/BenyaminBaraniNia)
+- Instagram: [@benyamin.b.n](https://www.instagram.com/benyamin.b.n/)
+- Telegram Channel: [@benyaminwrites](https://t.me/benyaminwrites)
 
 ## 💡 Notes
 
